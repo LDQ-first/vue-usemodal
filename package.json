@@ -1,0 +1,20 @@
+{
+  "name": "vue-usemodal",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "gitn": "git add . && git commit -m 'modify' && git push origin && npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LDQ-first/vue-usemodal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LDQ-first/vue-usemodal/issues"
+  },
+  "homepage": "https://github.com/LDQ-first/vue-usemodal#readme"
+}
